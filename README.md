@@ -1,16 +1,16 @@
 # Hi there, I'm Hanadi 👋
 
 ## 👩‍💻 About Me
-I'm a Software Engineer with a strong interest in building full-stack and mobile applications. I enjoy designing responsive UIs, working with clean code, and solving real-world problems using Java, Dart, Python, and modern web/mobile technologies.
+I am a software engineering student passionate about building full-stack and mobile applications using Java, Dart, and Python
 
 ---
 
 ## 🛠️ Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS  
-- **Backend:** Python, Node.js, Firebase, FastAPI  
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Python, Node.js, Firebase 
 - **Languages:** Java, Python, Dart, JavaScript  
-- **Tools & Platforms:** VS Code, Git & GitHub, Figma, Postman, Firebase, GitHub Pages, Vercel
+- **Tools & Platforms:** VS Code, Git & GitHub, Figma, Postman, Firebase
 
 ---
 
