@@ -28,7 +28,7 @@ I'm a Software Engineer with a strong interest in building full-stack and mobile
 ## 🤝 Get in Touch
 
 **🌍 Website:** [hanadi.vercel.app](https://hanadi.vercel.app)  
-**💼 LinkedIn:** [linkedin.com/in/hanadialshawesh](https://www.linkedin.com/in/hanadialshawesh)  
+**💼 LinkedIn:** [linkedin.com/in/hanadialshawesh](https://www.linkedin.com/in/hanadi-alshawesh-1b4541273/)  
 **🐙 GitHub:** [github.com/hanadialshawesh](https://github.com/hanadialshawesh)
 
 <!-- You can add more social links if you use Twitter, Instagram, etc. -->
