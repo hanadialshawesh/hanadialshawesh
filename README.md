@@ -1,4 +1,4 @@
-# Hi there, I'm Hanadi
+# Hi, I'm Hanadi
 
 ## About Me
 I am a software engineering student passionate about building full-stack and mobile applications using Java, Dart, and Python.
