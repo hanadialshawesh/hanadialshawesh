@@ -1,53 +1,34 @@
-## Hi, I'm Hanadi  👋
+# Hi there, I'm Hanadi 👋
 
-
-### 👩‍💻 About Me
-
-I'm a dedicated **software engineer** passionate about building elegant, efficient, and scalable applications. I specialize in full-stack development with a focus on frontend and data structure projects. I love working with Java, Python, Dart, and modern web technologies.
+## 👩‍💻 About Me
+I'm a Software Engineer with a strong interest in building full-stack and mobile applications. I enjoy designing responsive UIs, working with clean code, and solving real-world problems using Java, Dart, Python, and modern web/mobile technologies.
 
 ---
 
-### 🛠️ Skills
+## 🛠️ Skills
 
-**Frontend**:
-HTML, CSS
-
-**Backend**:
-Python, Node.js, Firebase
-
-**Languages**:
-Python, Java, JavaScript, Dart
-
-**Tools & Platforms**:
-VS Code, Git, GitHub, Firebase, Figma, Postman
+- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS  
+- **Backend:** Python, Node.js, Firebase, FastAPI  
+- **Languages:** Java, Python, Dart, JavaScript  
+- **Tools & Platforms:** VS Code, Git & GitHub, Figma, Postman, Firebase, GitHub Pages, Vercel
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
-**📦 Maven Product Management**
-A Java-based product management system using Maven to handle dependencies and project organization.
-
-**📱 Flutter Café App**
-A mobile café management app built with Flutter and Dart, designed for students.
-
-**🌐 Portfolio Website**
-My personal portfolio built with Next.js and TypeScript to showcase my skills and projects.
-🔗 [hanadi.vercel.app](https://hanadi.vercel.app)
-
-**🎮 Snake Game (Python)**
-A classic terminal-based snake game built using Python logic.
-
-**🧮 Data Structures Collection (Java)**
-A collection of implementations for Trees, Heaps, HashTables, Stacks, Queues, and Linked Lists.
-
-**🖥️ HTML Portfolio**
-My first personal site built using static HTML and CSS, hosted with GitHub Pages.
+- 📱 **Flutter Café App:** Mobile café ordering system built with Flutter and Dart for a smoother student café experience.  
+- 📦 **Maven Product Management:** Java-based system using Maven to manage products, dependencies, and internal logic.  
+- 🌐 **Portfolio Website:** My personal portfolio created with Next.js and TypeScript to showcase my skills and projects. 🔗 [hanadi.vercel.app](https://hanadi.vercel.app)  
+- 🎮 **Snake Game:** Classic terminal-based snake game built with Python.  
+- 🧮 **Data Structures Collection (Java):** Collection of core data structures including Trees, HashTables, Heaps, and Linked Lists.  
+- 🖥️ **HTML Portfolio:** My very first portfolio site using only static HTML & CSS, hosted on GitHub Pages.
 
 ---
 
-### 🤝 Get in Touch
+## 🤝 Get in Touch
 
-**🌍 Website**: [hanadi.vercel.app](https://hanadi.vercel.app)
-**💼 LinkedIn**: [linkedin.com/in/hanadialshawesh](https://www.linkedin.com/in/hanadialshawesh)
-**🐙 GitHub**: [github.com/hanadialshawesh](https://github.com/hanadialshawesh)
+**🌍 Website:** [hanadi.vercel.app](https://hanadi.vercel.app)  
+**💼 LinkedIn:** [linkedin.com/in/hanadialshawesh](https://www.linkedin.com/in/hanadialshawesh)  
+**🐙 GitHub:** [github.com/hanadialshawesh](https://github.com/hanadialshawesh)
+
+<!-- You can add more social links if you use Twitter, Instagram, etc. -->
