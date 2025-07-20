@@ -1,6 +1,5 @@
 ## Hi, I'm Hanadi  👋
 
-<!--
 
 ### 👩‍💻 About Me
 
@@ -52,9 +51,3 @@ My first personal site built using static HTML and CSS, hosted with GitHub Pages
 **🌍 Website**: [hanadi.vercel.app](https://hanadi.vercel.app)
 **💼 LinkedIn**: [linkedin.com/in/hanadialshawesh](https://www.linkedin.com/in/hanadialshawesh)
 **🐙 GitHub**: [github.com/hanadialshawesh](https://github.com/hanadialshawesh)
-
----
-
-Would you like this saved as a `README.md` file so you can upload it directly to GitHub?
-.
--->
